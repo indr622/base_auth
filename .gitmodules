@@ -1,0 +1,3 @@
+[submodule "BaseAuthApi"]
+	path = BaseAuthApi
+	url = https://github.com/indr622/BaseAuthApi
